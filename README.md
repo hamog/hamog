@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hamog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog)](https://github.com/hamog/github-readme-stats)
+[![Hamog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog&theme=radical)](https://github.com/hamog/github-readme-stats)
 
-![Hamog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog&hide=contribs,prs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamog&theme=radical)](https://github.com/hamog/github-readme-stats)
+
+[![Hamogs's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hamog&theme=radical)](https://github.com/hamog/github-readme-stats)
+
+
