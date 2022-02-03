@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog)](https://github.com/hamog/github-readme-stats)
+[![Hamog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog)](https://github.com/hamog/github-readme-stats)
+
+![Hamog's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamog&hide=contribs,prs)
