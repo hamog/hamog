@@ -1,5 +1,3 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
-
 ### Hi there 👋
 - 🔭 I have been programming PHP since 2010
 - 🌱 I’m currently working Laravel framework
